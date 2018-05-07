@@ -50,6 +50,12 @@ This list is mainly about CSS – the language and the modules. Not about naming
 
 - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Jen Simmons video series about the new CSS Layout possibilities.
 
+### Classic layouting
+
+- [Floats](https://tympanus.net/codrops/css_reference/float/) - In depth information about how to use (and clear) floats.
+- [Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) - A closer look at a few little-known things related to the CSS positioning layout method.
+- [inline-block](https://iamsteve.me/blog/entry/inline_block) - Shows in which cases it makes sense to use the display property `inline-block` for layouting.
+
 ### Flexbox
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - All you need to know about Flexbox on one page.
