@@ -45,7 +45,11 @@ This list is mainly about CSS – the language and the modules. Not about naming
 
 ## Custom properties (aka CSS variables)
 
-- *Section could need a link  or two.*
+- [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care) - A short introduction to CSS variables.
+- [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/) - Describes the advantages of locally scoped CSS variables.
+- [Using CSS variables correctly](https://www.madebymike.com.au/writing/using-css-variables/) - Patterns and anti-patterns for using CSS variables.
+- [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855) - In depth article going beyond the basics of CSS Variables using real-world examples.
+- [Getting Reactive with CSS](https://www.youtube.com/watch?v=4IRPxCMAIfA) - Mindblowing talk about the possibilities of the combination of CSS variables and functional reactive programming in JavaScript.
 
 ## Layout
 
