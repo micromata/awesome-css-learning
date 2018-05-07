@@ -35,7 +35,9 @@ This list is mainly about CSS – the language and the modules. Not about naming
 
 ## Fundamental concepts
 
-- [Secificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/) - Understanding specificity, inheritance and is important to master CSS. This article will help.
+- [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/) - Understanding specificity and inheritance is important to master CSS. This article will help.
+- [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - An article explaining the foundation of layout on the web.
+  - Also have a look at the detailed information about the [box-sizing](https://css-tricks.com/box-sizing/) property.
 
 ## CSS units
 
