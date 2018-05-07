@@ -55,6 +55,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 - [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) - Play with Flexbox examples on CodePen.
 - [Flexbox Defense](http://www.flexboxdefense.com) - A tower defense game in the browser to learn about Flexbox with fun.
 - [Flexbox Froggy](https://flexboxfroggy.com) - Learn all the basics of Flexbox with a fun game involving frogs and lily pads.
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them.
 
 ### Grid
 
