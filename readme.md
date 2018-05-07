@@ -56,7 +56,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 - [Flexbox Defense](http://www.flexboxdefense.com) - A tower defense game in the browser to learn about Flexbox with fun.
 - [Flexbox Froggy](https://flexboxfroggy.com) - Learn all the basics of Flexbox with a fun game involving frogs and lily pads.
 - [Flexbugs](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them.
-- [Flexbox Zombies](https://flexboxzombies.com) - Flexbox Zombies is a training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
+- [Flexbox Zombies](https://flexboxzombies.com) - A training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 
 ### Grid
 
