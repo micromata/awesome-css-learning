@@ -13,6 +13,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 <!-- toc -->
 
 - [CSS References](#css-references)
+- [CSS in a nutshell](#css-in-a-nutshell)
 - [Fundamental concepts](#fundamental-concepts)
 - [CSS units](#css-units)
 - [Selectors](#selectors)
@@ -27,6 +28,10 @@ This list is mainly about CSS – the language and the modules. Not about naming
 
 - [codrops](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference offering way more content than [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 - [Can I use](https://caniuse.com) - Interactive browser support tables for CSS (and HTML5).
+
+## CSS in a nutshell
+
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - This Screencast series will teach you the basics of CSS in about one hour.
 
 ## Fundamental concepts
 
