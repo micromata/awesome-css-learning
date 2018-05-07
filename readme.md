@@ -26,6 +26,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 ## CSS References
 
 - [codrops](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference offering way more content than [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+- [Can I use](https://caniuse.com) - Interactive browser support tables for CSS (and HTML5).
 
 ## Fundamental concepts
 
