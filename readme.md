@@ -62,6 +62,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 ## Layout
 
 - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Jen Simmons video series about the new CSS Layout possibilities.
+- [Laying Out The Future With Grid And Flexbox](https://www.youtube.com/watch?v=hj355PRbwSQ) - Introduction of a new layout system encompassing Flexbox, CSS Grid and the Box Alignment Module.
 
 ### Classic layouting
 
@@ -82,6 +83,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - All you need to know about CSS Grid Layout on one page.
 - [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid this site also has additional useful learning ressources.
+- [Designing with Grid](http://jensimmons.com/presentation/designing-grid) - Talk about the new layout possibilities CSS Grid is offering.
 
 ---
 
