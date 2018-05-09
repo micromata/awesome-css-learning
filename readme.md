@@ -61,6 +61,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 
 ## Layout
 
+- [Learn CSS Layout](http://book.mixu.net/css) - Learn about CSS layout techniques in 5 chapters.
 - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Jen Simmons video series about the new CSS Layout possibilities.
 - [Laying Out The Future With Grid And Flexbox](https://www.youtube.com/watch?v=hj355PRbwSQ) - Introduction of a new layout system encompassing Flexbox, CSS Grid and the Box Alignment Module.
 
