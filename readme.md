@@ -19,6 +19,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 - [Selectors](#selectors)
 - [Custom properties (aka CSS variables)](#custom-properties-aka-css-variables)
 - [Layout](#layout)
+- [Animation](#animation)
 
 <!-- tocstop -->
 
@@ -86,6 +87,14 @@ This list is mainly about CSS – the language and the modules. Not about naming
 - [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid this site also has additional useful learning ressources.
 - [Designing with Grid](http://jensimmons.com/presentation/designing-grid) - Talk about the new layout possibilities CSS Grid is offering.
 - [Grid Garden](https://cssgridgarden.com) - Lovely game where you write CSS code to grow your carrot garden.
+
+## Animation
+
+- [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to to CSS transitions and CSS (2D) transforms.
+- [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/css-transitions) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
+- [CSS 3D transforms](https://3dtransforms.desandro.com) - Multi page tutorial with examples like card flip and carousel effects.
+- [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
+- [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
 
 ---
 
