@@ -87,6 +87,7 @@ This list is mainly about CSS – the language and the modules. Not about naming
 - [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid this site also has additional useful learning ressources.
 - [Designing with Grid](http://jensimmons.com/presentation/designing-grid) - Talk about the new layout possibilities CSS Grid is offering.
 - [Grid Garden](https://cssgridgarden.com) - Lovely game where you write CSS code to grow your carrot garden.
+- [GridBugs](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
 
 ## Animation
 
