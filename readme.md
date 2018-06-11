@@ -1,4 +1,4 @@
-# Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://dzwonsemrish7.cloudfront.net/items/1Q3S3H0L1C1V2e2B2v3T/css3-logo.svg" width="125" align="right" alt="JS Logo">
+# Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://www.w3.org/Style/CSS/"><img src="https://dzwonsemrish7.cloudfront.net/items/1Q3S3H0L1C1V2e2B2v3T/css3-logo.svg" width="125" align="right" alt="JS Logo"></a>
 
 > An awesome list limited to the best CSS learning resources
 
