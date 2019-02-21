@@ -1,8 +1,8 @@
-# Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://www.w3.org/Style/CSS/"><img src="https://dzwonsemrish7.cloudfront.net/items/1Q3S3H0L1C1V2e2B2v3T/css3-logo.svg" width="125" align="right" alt="JS Logo"></a>
+# Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://dzwonsemrish7.cloudfront.net/items/1Q3S3H0L1C1V2e2B2v3T/css3-logo.svg" width="125" align="right" alt="CSS Logo"></a>
 
 > An awesome list limited to the best CSS learning resources
 
-This list is mainly about CSS – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors or other aspects of todays CSS ecosystem.
+This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors, CSS-in-JS or other aspects of todays CSS ecosystem.
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
