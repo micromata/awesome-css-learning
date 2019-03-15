@@ -8,10 +8,6 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Contents
 
-<!-- Run `npm run toc` to generate the TOC -->
-
-<!-- toc -->
-
 - [CSS References](#css-references)
 - [CSS in a nutshell](#css-in-a-nutshell)
 - [Fundamental concepts](#fundamental-concepts)
@@ -20,8 +16,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Custom properties (aka CSS variables)](#custom-properties-aka-css-variables)
 - [Layout](#layout)
 - [Animation](#animation)
-
-<!-- tocstop -->
+- [Related](#related)
 
 ---
 
@@ -99,6 +94,10 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
 
 ---
+
+## Related
+
+[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
 
 ## License
 
