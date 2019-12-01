@@ -75,6 +75,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Flexbox Froggy](https://flexboxfroggy.com) - Learn all the basics of Flexbox with a fun game involving frogs and lily pads.
 - [Flexbugs](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them.
 - [Flexbox Zombies](https://flexboxzombies.com) - A training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
+- [What the Flexbox?](https://flexbox.io/) - A simple, free 20 video course that will help you master CSS Flexbox!
 
 ### Grid
 
