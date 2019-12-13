@@ -70,6 +70,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ### Flexbox
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - All you need to know about Flexbox on one page.
+<!--lint ignore no-dead-urls-->
 - [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) - Play with Flexbox examples on CodePen.
 - [Flexbox Defense](http://www.flexboxdefense.com) - A tower defense game in the browser to learn about Flexbox with fun.
 - [Flexbox Froggy](https://flexboxfroggy.com) - Learn all the basics of Flexbox with a fun game involving frogs and lily pads.
