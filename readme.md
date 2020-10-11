@@ -81,7 +81,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ### Grid
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - All you need to know about CSS Grid Layout on one page.
-- [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid this site also has additional useful learning ressources.
+- [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid this site also has additional useful learning resources.
 - [Designing with Grid](https://talks.jensimmons.com/J5VRbA/designing-with-grid) - Talk about the new layout possibilities CSS Grid is offering.
 - [Grid Garden](https://cssgridgarden.com) - Lovely game where you write CSS code to grow your carrot garden.
 - [GridBugs](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
