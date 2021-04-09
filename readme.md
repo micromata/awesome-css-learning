@@ -90,7 +90,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ## Animation
 
 - [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to to CSS transitions and CSS (2D) transforms.
-- [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/css-transitions) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
+- [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/all-you-need-to-know-about-css-transitions/) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
 - [CSS 3D transforms](https://3dtransforms.desandro.com) - Multi page tutorial with examples like card flip and carousel effects.
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
 - [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
