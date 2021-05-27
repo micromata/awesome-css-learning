@@ -40,6 +40,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 - [The Lengths of CSS](https://css-tricks.com/the-lengths-of-css/) - Overview covering absolute and relative units.
 - [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/) - Imparts the basics and shows some nifty use-cases.
+- [CSS Units and Values](https://lyty.dev/css/css-unit.html) - Covers in-depth tutorial on various lesser-known CSS units and values, also provides easy to understand examples.
 
 ## Selectors
 
