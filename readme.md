@@ -27,7 +27,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## CSS in a nutshell
 
-- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - This Screencast series will teach you the basics of CSS in about one hour.
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - This screencast series will teach you the basics of CSS in about one hour.
 
 ## Fundamental concepts
 
