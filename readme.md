@@ -43,7 +43,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Selectors
 
-- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - An introducing to the very basic CSS selectors you need to know.
+- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - An introduction to the very basic CSS selectors you need to know.
 - [Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/) - Level up your knowledge. From attribute selectors to CSS3 pseudo classes.
 - [CSS Diner](https://flukeout.github.io) - Learn how to use CSS selectors with this fun little game.
 
