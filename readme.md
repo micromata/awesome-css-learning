@@ -22,6 +22,8 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## CSS References
 
+- [Learn CSS - Web.dev](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise.
+- [Learn Responsive Design](https://web.dev/learn/design/) - A course exploring all aspects of responsive design. Learn how to make sites that look great and work well for everyone.
 - [codrops](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference offering way more content than [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 - [Can I use](https://caniuse.com) - Interactive browser support tables for CSS (and HTML5).
 
