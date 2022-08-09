@@ -22,8 +22,6 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## CSS References
 
-- [Learn CSS - Web.dev](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise.
-- [Learn Responsive Design](https://web.dev/learn/design/) - A course exploring all aspects of responsive design. Learn how to make sites that look great and work well for everyone.
 - [codrops](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference offering way more content than [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 - [Can I use](https://caniuse.com) - Interactive browser support tables for CSS (and HTML5).
 
@@ -33,6 +31,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Fundamental concepts
 
+- [Learn Responsive Design](https://web.dev/learn/design/) - A course exploring all aspects of responsive design. Learn how to make sites that look great and work well for everyone.
 - [The cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade) - This article explains what the cascade is and how this affects you.
 - [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/) - Understanding specificity and inheritance is important to master CSS. This article will help.
 - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - An article explaining the foundation of layout on the web.
