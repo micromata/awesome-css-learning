@@ -97,6 +97,10 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
 - [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
 
+##Books
+
+- [Tiny CSS Projects](https://www.manning.com/books/tiny-css-projects) - Improve the way you write CSS as you build 12 tiny projects.
+
 ---
 
 ## Related
