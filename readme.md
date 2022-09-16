@@ -96,6 +96,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [CSS 3D transforms](https://3dtransforms.desandro.com) - Multi page tutorial with examples like card flip and carousel effects.
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
 - [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
+- [CSS Animations: Introduction & Examples](https://stackdiary.com/css-animations/) - A detaieled overview of how to do (pure) CSS animations.
 
 ---
 
