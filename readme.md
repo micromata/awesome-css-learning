@@ -4,7 +4,7 @@
 
 This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors, CSS-in-JS or other aspects of todays CSS ecosystem.
 
-*Please read the [contribution guidelines](./contributing.md) before contributing.*
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
 
@@ -102,9 +102,3 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ## Related
 
 [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.
