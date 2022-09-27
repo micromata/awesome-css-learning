@@ -4,7 +4,7 @@
 
 This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors, CSS-in-JS or other aspects of todays CSS ecosystem.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
 ## Contents
 
