@@ -24,6 +24,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 - [codrops](https://tympanus.net/codrops/css_reference/) - An extensive CSS reference offering way more content than [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 - [Can I use](https://caniuse.com) - Interactive browser support tables for CSS (and HTML5).
+- [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/) - Master CSS Cheat Sheet. Enhance your web development skills with this comprehensive resource.
 
 ## CSS in a nutshell
 
