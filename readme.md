@@ -62,6 +62,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 -   [Learn CSS Layout](http://book.mixu.net/css) - Learn about CSS layout techniques in 5 chapters.
 -   [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Jen Simmons video series about the new CSS Layout possibilities.
 -   [Laying Out The Future With Grid And Flexbox](https://www.youtube.com/watch?v=hj355PRbwSQ) - Introduction of a new layout system encompassing Flexbox, CSS Grid and the Box Alignment Module.
+-   [Modern CSS layouts](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/) - Four CSS classes for diffren layout approaches.
 
 ### Classic layouting
 
