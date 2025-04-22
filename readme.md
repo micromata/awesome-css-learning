@@ -58,6 +58,10 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Layout
 
+- [Interactive Guide to CSS Container Queries by Ahmad Shadeed](https://ishadeed.com/article/container-queries/) - Interactive guide with practical examples.
+- [Container Queries: A Practical Introduction by Miriam Suzanne](https://www.oddbird.net/2021/04/05/containerqueries/) - Technical and practical introduction.
+- [CSS Container Queries Explained by Kevin Powell](https://www.youtube.com/watch?v=5J3TK7bPuSg) - Clear video tutorial with real-world examples.
+
 - [Learn CSS Layout](http://book.mixu.net/css) - Learn about CSS layout techniques in 5 chapters.
 - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Jen Simmons video series about the new CSS Layout possibilities.
 - [Laying Out The Future With Grid And Flexbox](https://www.youtube.com/watch?v=hj355PRbwSQ) - Introduction of a new layout system encompassing Flexbox, CSS Grid and the Box Alignment Module.
@@ -79,6 +83,11 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Flexbox Zombies](https://flexboxzombies.com) - A training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 - [What the Flexbox?](https://flexbox.io/) - A simple, free 20 video course that will help you master CSS Flexbox!
 
+## CSS Houdini
+- [Houdini: Maybe The Most Exciting Development In CSS](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css/) - Comprehensive introduction to Houdini and its APIs.
+- [Getting Started with CSS Houdini by Una Kravets](https://una.im/houdini-quickstart/) - Beginner-friendly guide to Houdini’s Paint API.
+- [CSS Houdini: The Future of CSS by Google Chrome Developers](https://www.youtube.com/watch?v=sflppYSF7cY) - Official video with demos and use cases.
+
 ### Grid
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - All you need to know about CSS Grid Layout on one page.
@@ -89,6 +98,9 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
 - [CSS Grid](https://cssgrid.io) - Learn CSS grid with Wes Bos - Free 4 hours video course, 25 Videos.
 
+- [Learn CSS Subgrid by Ahmad Shadeed](https://ishadeed.com/article/css-subgrid/) - Comprehensive guide with practical use cases and interactive examples.
+- [CSS Subgrid: A Complete Guide by Rachel Andrew](https://www.smashingmagazine.com/2020/03/css-grid-subgrid/) - In-depth technical explanation of Subgrid.
+- [CSS Subgrid Tutorial by Kevin Powell](https://www.youtube.com/watch?v=2XbCWf-Cb8I) - Beginner-friendly video tutorial with clear examples.
 ## Animation
 
 - [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to CSS transitions and CSS (2D) transforms.
