@@ -57,6 +57,9 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Getting Reactive with CSS](https://www.youtube.com/watch?v=4IRPxCMAIfA) - Mindblowing talk about the possibilities of the combination of CSS variables and functional reactive programming in JavaScript.
 
 ## Layout
+- [Interactive Guide to CSS Container Queries by Ahmad Shadeed](https://ishadeed.com/article/container-queries/) - Interactive guide with practical examples.
+- [Container Queries: A Practical Introduction by Miriam Suzanne](https://www.oddbird.net/2021/04/05/containerqueries/) - Technical and practical introduction.
+- [CSS Container Queries Explained by Kevin Powell](https://www.youtube.com/watch?v=5J3TK7bPuSg) - Clear video tutorial with real-world examples.
 
 - [Learn CSS Layout](http://book.mixu.net/css) - Learn about CSS layout techniques in 5 chapters.
 - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Jen Simmons video series about the new CSS Layout possibilities.
