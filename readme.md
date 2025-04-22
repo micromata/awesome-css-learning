@@ -80,6 +80,9 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [What the Flexbox?](https://flexbox.io/) - A simple, free 20 video course that will help you master CSS Flexbox!
 
 ### Grid
+- [Learn CSS Subgrid by Ahmad Shadeed](https://ishadeed.com/article/css-subgrid/) - Comprehensive guide with practical use cases and interactive examples.
+- [CSS Subgrid: A Complete Guide by Rachel Andrew](https://www.smashingmagazine.com/2020/03/css-grid-subgrid/) - In-depth technical explanation of Subgrid.
+- [CSS Subgrid Tutorial by Kevin Powell](https://www.youtube.com/watch?v=2XbCWf-Cb8I) - Beginner-friendly video tutorial with clear examples.
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - All you need to know about CSS Grid Layout on one page.
 - [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid, this site also has additional useful learning resources.
