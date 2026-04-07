@@ -6,6 +6,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CSS learning workflow orchestration, automated tutorial pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [CSS References](#css-references)
