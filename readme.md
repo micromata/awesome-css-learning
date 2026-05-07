@@ -101,4 +101,5 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Related
 
-[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
+- [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
+- [Repos like awesome-css-learning](https://relatedrepos.com/gh/micromata/awesome-css-learning) - Other GitHub repositories that are related to this one.
