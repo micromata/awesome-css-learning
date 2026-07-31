@@ -98,6 +98,9 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
 
 ---
+## CSS Tutorial
+- [CSS Tutorial for Beginners](https://html5andcss3.org/tutorials/css/) - A complete css tutorial for beginner, which covers most of css the realted content.
+
 
 ## Related
 
