@@ -102,3 +102,4 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ## Related
 
 [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
